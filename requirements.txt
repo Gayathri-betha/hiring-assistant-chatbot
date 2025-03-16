@@ -1,5 +1,5 @@
-streamlit
-openai
-langchain
-python-dotenv
-touch .env
+streamlit==1.36.0
+langchain-google-genai==0.0.8
+python-dotenv==1.0.1
+textblob==0.18.0.post0
+googletrans==4.0.0-rc1
